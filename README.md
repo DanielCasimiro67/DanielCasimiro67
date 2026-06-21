@@ -6,6 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A0FFF&center=true&vCenter=true&width=500&lines=Junior+Quality+Assurance+Tester;Detail-Oriented+Bug+Hunter;Executing+Manual+Test+Cases;Learning+API+%26+Automation" alt="Typing SVG" /></a>
 
 </div>
+
 ---
 
 ## 📋 Test Execution Results: Current Status
@@ -60,7 +61,7 @@ I am an aspiring QA Tester currently building my foundational skills in software
 ---
 
 ## 🤝 Let's Connect
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** danierukamishiro@gmail.com(mailto:danierukamishiro@gmail.com)
 
 <br>
 
