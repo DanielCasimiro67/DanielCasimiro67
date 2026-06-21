@@ -29,12 +29,11 @@
   I love diving into applications, testing different user scenarios, and documenting bugs 
   so developers can fix them efficiently. I am focusing heavily on mastering manual 
   testing processes while taking my first steps into basic API testing.
-</p>
 
 **Current Focus:** Writing clear test cases, performing manual UI testing, and learning browser developer tools.<br>
 **What I Do:** Executing test scenarios, learning bug lifecycle management, and verifying user requirements.<br>
 **Fun Fact:** I once spent two hours tracking down a bug that turned out to be a simple typo!
-
+</p>
 ---
 
 ## 🔬 My Beginner Testing Arsenal
