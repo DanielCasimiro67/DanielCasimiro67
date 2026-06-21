@@ -24,7 +24,12 @@
 ---
 
 ## 🎯 About Me
-I am an aspiring QA Tester currently building my foundational skills in software quality. I love diving into applications, testing different user scenarios, and documenting bugs so developers can fix them efficiently. I am focusing heavily on mastering manual testing processes while taking my first steps into basic API testing.
+<p align="justify">
+  I am an aspiring QA Tester currently building my foundational skills in software quality. 
+  I love diving into applications, testing different user scenarios, and documenting bugs 
+  so developers can fix them efficiently. I am focusing heavily on mastering manual 
+  testing processes while taking my first steps into basic API testing.
+</p>
 
 **Current Focus:** Writing clear test cases, performing manual UI testing, and learning browser developer tools.<br>
 **What I Do:** Executing test scenarios, learning bug lifecycle management, and verifying user requirements.<br>
