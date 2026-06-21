@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there, I'm Daniel Casimiro 🕵️‍♀️🐛
 
 ---
@@ -43,3 +44,4 @@ I am an aspiring QA Tester currently building my foundational skills in software
 
 ## 🤝 Let's Connect
 - **Email:** danierukamishiro@gmail.com(mailto:danierukamishiro@gmail.com)
+</div>
