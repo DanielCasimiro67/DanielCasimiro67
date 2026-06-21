@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Daniel Casimiro! 🕵️‍♀️🐛
+# Hi there! 🕵️‍♀️🐛
 
+<!-- ANIMATED TYPING BANNER -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A0FFF&center=true&vCenter=true&width=500&lines=Junior+Quality+Assurance+Tester;Detail-Oriented+Bug+Hunter;Executing+Manual+Test+Cases;Learning+API+%26+Automation" alt="Typing SVG" /></a>
 
+</div>
 ---
 
 ## 📋 Test Execution Results: Current Status
@@ -14,6 +16,8 @@
 > **[ IN PROGRESS ]** Writing comprehensive Test Cases & Bug Reports<br>
 > **[ IN PROGRESS ]** Learning API Testing with Postman<br>
 > **[ PENDING ]** Land my first Junior QA Role!<br>
+
+<div align="center">
 
 ---
 
@@ -60,6 +64,7 @@ I am an aspiring QA Tester currently building my foundational skills in software
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/DanielCasimiro67/count.svg)
+<!-- NEW STABLE PROFILE VIEW COUNTER -->
+![Visitor Count](https://komarev.com/ghpvc/?username=DanielCasimiro67&label=Profile+Views&color=0A0FFF&style=flat-square)
 
 </div>
