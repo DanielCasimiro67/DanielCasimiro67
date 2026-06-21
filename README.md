@@ -34,6 +34,7 @@
 **What I Do:** Executing test scenarios, learning bug lifecycle management, and verifying user requirements.<br>
 **Fun Fact:** I once spent two hours tracking down a bug that turned out to be a simple typo!
 </p>
+
 ---
 
 ## 🔬 My Beginner Testing Arsenal
