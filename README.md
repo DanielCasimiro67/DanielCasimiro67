@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Daniel Casimiro🕵️‍♀️🐛
+# Hi there, I'm Daniel Casimiro! 🕵️‍♀️🐛
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A0FFF&center=true&vCenter=true&width=500&lines=Junior+Quality+Assurance+Tester;Detail-Oriented+Bug+Hunter;Executing+Manual+Test+Cases;Learning+API+%26+Automation" alt="Typing SVG" /></a>
 
@@ -22,7 +22,6 @@ I am an aspiring QA Tester currently building my foundational skills in software
 
 **Current Focus:** Writing clear test cases, performing manual UI testing, and learning browser developer tools.<br>
 **What I Do:** Executing test scenarios, learning bug lifecycle management, and verifying user requirements.<br>
-**Goal:** To land a Junior QA role and eventually grow my skills in test automation.<br>
 **Fun Fact:** I once spent two hours tracking down a bug that turned out to be a simple typo!
 
 ---
@@ -34,7 +33,7 @@ I am an aspiring QA Tester currently building my foundational skills in software
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Google Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### 🌐 Web Basics
+### 🌐 Web Basics (Understanding the DOM)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,10 +56,10 @@ I am an aspiring QA Tester currently building my foundational skills in software
 ---
 
 ## 🤝 Let's Connect
-**Email:** danierukamishiro@gmail.com(mailto:danierukamishiro@gmail.com)
+**Email:** [your.email@example.com](mailto:your.email@example.com)
+
 <br>
 
-<!-- ANIMATED PROFILE VIEW COUNTER -->
 ![Visitor Count](https://profile-counter.glitch.me/DanielCasimiro67/count.svg)
 
 </div>
