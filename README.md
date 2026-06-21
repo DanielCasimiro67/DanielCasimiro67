@@ -1,17 +1,16 @@
 <div align="center">
----
 
-# Hi there, I'm Daniel Casimiro 🕵️‍♀️🐛
+# Hi there, I'm Daniel Casimiro🕵️‍♀️🐛
 
 ---
 
 ## 🎯 About Me
 I am an aspiring QA Tester currently building my foundational skills in software quality. I love diving into applications, testing different user scenarios, and documenting bugs so developers can fix them efficiently. I am focusing heavily on mastering manual testing processes while taking my first steps into basic API testing.
 
-- 🔍 **Current Focus:** Writing clear test cases, performing manual UI testing, and learning browser developer tools.
-- 🛠️ **What I Do:** Executing test scenarios, learning bug lifecycle management, and verifying user requirements.
-- 💡 **Goal:** To land a Junior QA role and eventually grow my skills in test automation.
-- ⚡ **Fun Fact:** I once spent two hours tracking down a bug that turned out to be a simple typo!
+**Current Focus:** Writing clear test cases, performing manual UI testing, and learning browser developer tools.<br>
+**What I Do:** Executing test scenarios, learning bug lifecycle management, and verifying user requirements.<br>
+**Goal:** To land a Junior QA role and eventually grow my skills in test automation.<br>
+**Fun Fact:** I once spent two hours tracking down a bug that turned out to be a simple typo!
 
 ---
 
@@ -45,5 +44,6 @@ I am an aspiring QA Tester currently building my foundational skills in software
 ---
 
 ## 🤝 Let's Connect
-- **Email:** danierukamishiro@gmail.com(mailto:danierukamishiro@gmail.com)
+**Email:** danierukamishiro@gmail.com(mailto:danierukamishiro@gmail.com)
+
 </div>
