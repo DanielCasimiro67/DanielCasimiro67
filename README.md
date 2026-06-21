@@ -5,11 +5,12 @@
 <!-- ANIMATED TYPING BANNER -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A0FFF&center=true&vCenter=true&width=500&lines=Junior+Quality+Assurance+Tester;Detail-Oriented+Bug+Hunter;Executing+Manual+Test+Cases;Learning+API+%26+Automation" alt="Typing SVG" /></a>
 
-</div>
-
 ---
 
 ## 📋 Test Execution Results: Current Status
+
+</div>
+
 *A quick look at my ongoing career test run...*
 
 > **[ PASS ]** Found a passion for Software Quality<br>
@@ -38,7 +39,7 @@ I am an aspiring QA Tester currently building my foundational skills in software
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Google Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### 🌐 Web Basics (Understanding the DOM)
+### 🌐 Web Basics
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
