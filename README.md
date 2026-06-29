@@ -1,22 +1,22 @@
 <div align="center">
 
-# Hi there, I'm Daniel Casimiro! 🌉📊
+# Hi there, I'm Daniel Casimiro! 📊💡
 
 <!-- ANIMATED TYPING BANNER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A0FFF&center=true&vCenter=true&width=500&lines=Junior+Systems+Analyst;Bridging+Business+%26+IT;Process+Modeling+%26+UML;Requirement+Gathering;Optimizing+Workflows" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Aspiring+Systems+Analyst;Bridging+Business+%26+Technology;Process+Optimization+Enthusiast;Translating+User+Requirements" alt="Typing SVG" /></a>
 
 ---
 
-## 📋 System Analysis: Current Status
+## 📋 System Lifecycle: Current Status
 
 </div>
 
-*A quick look at my ongoing career deployment...*
+*A quick look at my ongoing professional development...*
 
-> **[ PASS ]** Developed a knack for solving complex business problems<br>
-> **[ PASS ]** Mastered the basics of Process Mapping & UML<br>
-> **[ IN PROGRESS ]** Translating stakeholder needs into technical specifications<br>
-> **[ IN PROGRESS ]** Learning SQL and Data Modeling<br>
+> **[ INTEGRATED ]** Solid understanding of the Software Development Life Cycle (SDLC)<br>
+> **[ INTEGRATED ]** Proficiency in Process Modeling and UML diagrams<br>
+> **[ IN PROGRESS ]** Writing comprehensive System Requirements Specifications (SRS)<br>
+> **[ IN PROGRESS ]** Enhancing SQL skills for database querying and data analysis<br>
 > **[ PENDING ]** Land my first Junior Systems Analyst Role!<br>
 
 <div align="center">
@@ -25,46 +25,43 @@
 
 ## 🎯 About Me
 <p align="justify">
-  I am an aspiring Systems Analyst currently honing my skills in bridging the gap between business requirements and technical solutions. 
-  I love diving into existing workflows, identifying bottlenecks, and documenting clear, functional specifications 
-  so development teams can build exactly what stakeholders need. I am focusing heavily on mastering requirement 
-  gathering while taking my first steps into database analysis.
-
-**Current Focus:** Creating use-case diagrams, requirement gathering, and writing functional specifications.<br>
-**What I Do:** Analyzing business processes, aligning IT solutions with business goals, and designing workflow models.<br>
-**Fun Fact:** I once spent two hours mapping out a complex, manual business workflow only to realize the entire process could be automated with a single script!
+  I am an aspiring Systems Analyst dedicated to bridging the gap between business objectives and technical execution. I thrive on deconstructing complex workflows, gathering stakeholder requirements, and translating them into clear, actionable technical blueprints. My goal is to design efficient, scalable systems that solve real-world organizational bottlenecks.
 </p>
+
+**Current Focus:** Mastering business process mapping, writing technical documentation, and analyzing data flow architectures.<br>
+**What I Do:** Eliciting requirements, creating Use Case diagrams, and collaborating with development teams to ensure functional alignment.<br>
+**Fun Fact:** I once mapped out my entire weekly household chore routine using a BPMN diagram just to find process inefficiencies!
 
 ---
 
-## 🔬 My Analyst Arsenal
+## 🔬 My Analytical Toolkit
 
-### 📐 Modeling, Diagramming & Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### 📐 Process Modeling & System Design
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F8991D?style=for-the-badge&logo=lucidchart&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🗄️ Data & Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 📋 Project Management & Agile
+### 📊 Project Management & Collaboration
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### ⚙️ Technical Foundations
+### 🗄️ Data Analysis & Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 💻 Technical Foundations
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCasimiro67&show_icons=true&theme=nord)
-![Top Langs](https://github.readme-stats.vercel.app/api/top-langs/?username=DanielCasimiro67&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCasimiro67&layout=compact&theme=nord)
 
 ---
 
@@ -74,6 +71,6 @@
 <br>
 
 <!-- NEW STABLE PROFILE VIEW COUNTER -->
-![Visitor Count](https://komarev.com/ghpvc/?username=DanielCasimiro67&label=Profile+Views&color=0A0FFF&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=DanielCasimiro67&label=Profile+Views&color=007ACC&style=flat-square)
 
 </div>
