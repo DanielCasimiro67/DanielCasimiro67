@@ -60,7 +60,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCasimiro67&show_icons=true&theme=nord)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCasimiro67&show_icons=true&theme=nord&cache=fresh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCasimiro67&layout=compact&theme=nord)
 
 ---
