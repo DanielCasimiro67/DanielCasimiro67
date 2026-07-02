@@ -14,7 +14,6 @@
 *A quick look at my ongoing professional development...*
 
 > **[ INTEGRATED ]** Solid understanding of the Software Development Life Cycle (SDLC)<br>
-> **[ INTEGRATED ]** Proficiency in Process Modeling and UML diagrams<br>
 > **[ IN PROGRESS ]** Writing comprehensive System Requirements Specifications (SRS)<br>
 > **[ IN PROGRESS ]** Enhancing SQL skills for database querying and data analysis<br>
 > **[ PENDING ]** Land my first Junior Systems Analyst Role!<br>
