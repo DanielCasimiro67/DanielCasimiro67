@@ -2,7 +2,7 @@
 
 ### Aspiring Systems Analyst | Bridging Business & Technology
 
-I am an Applications Development student with a passion for **systems thinking**. I don't just want to write code; I want to understand the big picture, optimize workflows, and translate complex business problems into scalable software solutions. 
+I am a Bachelor of Science in Information Systems student with a passion for **systems thinking**. I don't just want to write code; I want to understand the big picture, optimize workflows, and translate complex business problems into scalable software solutions. 
 
 *“Designing the blueprint before building the house.”*
 
