@@ -15,8 +15,7 @@ I am a Bachelor of Science in Information Systems student with a passion for **s
 
 ### Currently Exploring
 - **Learning:** Advanced Database Design (SQL), API Integrations, and Enterprise Architecture.
-- **Reading:** [Insert a book you are reading, e.g., *Systems Analysis and Design* or *Clean Code*]
-- **Working on:** [Insert a brief mention of a current school project or portfolio piece]
+- **Reading:** Systems Analysis and Design
 
 ---
 
@@ -43,7 +42,7 @@ I am a Bachelor of Science in Information Systems student with a passion for **s
 *(Note: To make these work, just replace 'your-github-username' with your actual username in the URLs below!)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielCasimiro67&show_icons=true&theme=radium" alt="GitHub Stats" />
 </div>
 
 ---
@@ -51,6 +50,4 @@ I am a Bachelor of Science in Information Systems student with a passion for **s
 ### Let's Connect!
 Looking to collaborate on a system design project or talk about tech? Reach out:
 
-- **LinkedIn:** [Link to your LinkedIn profile]
-- **Portfolio/Website:** [Link to your website, or remove if you don't have one yet]
-- **Email:** [Your Professional Email Address]
+- **Email:** danierukamishiro@gmail.com
