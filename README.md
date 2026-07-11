@@ -39,7 +39,6 @@ I am a Bachelor of Science in Information Systems student with a passion for **s
 ---
 
 ### GitHub Stats
-*(Note: To make these work, just replace 'your-github-username' with your actual username in the URLs below!)*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielCasimiro67&show_icons=true&theme=radium" alt="GitHub Stats" />
